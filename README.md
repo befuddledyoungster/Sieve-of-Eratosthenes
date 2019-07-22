@@ -17,8 +17,9 @@ Following is the algorithm to find all the prime numbers less than or equal to a
 # Note
 
 I used memset() to first assign every no. between 2 and n as a prime number.
+
 I advice you to use this method(or a better modification) everytime to find prime numbers.
 
-Any improvement in code will be highly appreciated.IF any more efficient code is made by you in any other programming language,you are welcome to push to thi repository.
+Any improvement in code will be highly appreciated.IF any more efficient code is made by you in any other programming language,you are welcome to push to this repository but by making your own branch.
 
 Thanks for reading :-)
