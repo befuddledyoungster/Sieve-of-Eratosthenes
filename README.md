@@ -16,7 +16,7 @@ Following is the algorithm to find all the prime numbers less than or equal to a
 
 # Note
 
-I used memset() to first assign every no. between 2 and n as a prime number.
+I used *memset()* to first assign every no. between 2 and n as a prime number.Then I traversed the array intitiating iterator as p^2 and adding p to it everytime.
 
 I advice you to use this method(or a better modification) everytime to find prime numbers.
 
