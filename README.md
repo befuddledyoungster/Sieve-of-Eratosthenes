@@ -13,10 +13,12 @@ Following is the algorithm to find all the prime numbers less than or equal to a
    
 4) Find the first number greater than p in the list that is not marked. If there was no such number, stop. Otherwise, let p now equal 
    this number (which is the next prime), and repeat from step 3.
+   
+Prints list of prime numbers with ***Worst case complexity**** =  **O(nlog(log(n)))**   :smile:
 
 # Note
 
-I used *memset()* to first assign every no. between 2 and n as a prime number.Then I traversed the array intitiating iterator as p^2 and adding p to it everytime.
+I used ***memset()*** to first assign every no. between 2 and n as a prime number.Then I traversed the array intitiating iterator as p^2 and adding p to it everytime.
 
 I advice you to use this method(or a better modification) everytime to find prime numbers.
 
